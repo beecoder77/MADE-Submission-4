@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MADE Submission 4</string>
+    <string name="tab_menu_1">Film</string>
+    <string name="tab_menu_2">Acara Tv</string>
+    <string name="title_activity_favorite">Favorite Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="movie_title">Title Film</string>
+    <string name="tv_title">Acara Tv Title</string>
+    <string name="favorite_title">favorite title</string>
+
+    <string name="api_tv">http://api.themoviedb.org/3/discover/tv?api_key=9b7895f9490eab4f205bcfdbbad32058</string>
+    <string name="api_movie">http://api.themoviedb.org/3/discover/movie?api_key=9b7895f9490eab4f205bcfdbbad32058</string>
+    <string name="txt_release">Realease</string>
+    <string name="txt_title">Title</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="activity_main">Menu Utama</string>
+    <string name="success">Berhasil</string>
+    <string name="failed">Gagal</string>
+
+</resources>
